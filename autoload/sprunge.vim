@@ -6,7 +6,7 @@
 " Notes:       Much of this code was thiefed from gundo.vim
 " ============================================================================
 
-let s:sprunge_cmd = 'curl -s -F "sprunge=<-" http://sprunge.us'
+let s:sprunge_cmd = 'curl -s -F "paste=<-" http://paste.bein.link'
 
 function! sprunge#CopyToClipboard(clip) "{{{
   if g:sprunge_clipboard == 'vim' || g:sprunge_clipboard == 'all'
