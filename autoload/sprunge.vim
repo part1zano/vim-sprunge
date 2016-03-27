@@ -1,6 +1,6 @@
 " ============================================================================
 " File:        sprunge.vim
-" Description: vim global plugin to paste to http://sprunge.us/
+" Description: vim global plugin to paste to http://paste.bein.link
 " Maintainer:  Javier Lopez <m@javier.io>
 " License:     WTFPL -- look it up.
 " Notes:       Much of this code was thiefed from gundo.vim
