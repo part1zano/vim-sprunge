@@ -1,4 +1,4 @@
-[Sprunge.vim](https://github.com/chilicuil/vim-sprunge) is a global plugin to post to [Sprunge](http://sprunge.us/)
+[Sprunge.vim](https://github.com/chilicuil/vim-sprunge) is a global plugin to post to [Paste at bein.link](http://paste.bein.link/)
 
 Preview
 -------
@@ -18,7 +18,7 @@ Installation
 
 - [Vundle](https://github.com/gmarik/vundle) way (recommended), add the following to your $HOME/.vimrc file:
 
-        Bundle 'chilicuil/vim-sprunge'
+        Bundle 'part1zano/vim-sprunge'
 
     And run inside of vim:
 
@@ -26,7 +26,7 @@ Installation
 
 - [NeoBundle](https://github.com/Shougo/neobundle.vim) way:
 
-        NeoBundle 'chilicuil/vim-sprunge'
+        NeoBundle 'part1zano/vim-sprunge'
 
     And run inside of vim:
 
@@ -34,7 +34,7 @@ Installation
 
 - [Pathogen](https://github.com/tpope/vim-pathogen) way:
 
-        $ git clone https://github.com/chilicuil/vim-sprunge.git ~/.vim/bundle/vim-sprunge
+        $ git clone https://github.com/part1zano/vim-sprunge.git ~/.vim/bundle/vim-sprunge
 
 - **Manual** (simplest if you've never heard of vundle or pathogen), download the zip file generated from github and extract it to $HOME/.vim
 
@@ -48,7 +48,7 @@ Installation
 Usage
 -----
 
-:Sprunge to sprunge code to sprunge.us, you may use it in visual mode to
+:Sprunge to sprunge code to paste.bein.link, you may use it in visual mode to
 sprunge only the selection.
 
 You can also use the provided mapping of <kbd>\<Leader\>s</kbd> in both normal
