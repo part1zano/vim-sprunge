@@ -48,7 +48,7 @@ Installation
 Usage
 -----
 
-:Sprunge to sprunge code to paste.bein.link, you may use it in visual mode to
+<kbd>:Sprunge</kbd> to sprunge code to paste.bein.link, you may use it in visual mode to
 sprunge only the selection.
 
 You can also use the provided mapping of <kbd>\<Leader\>s</kbd> in both normal
